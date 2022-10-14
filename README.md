@@ -1,9 +1,5 @@
-# minimum-grade
-2nd Activity for Computer Programming
+#computerprogramming-activities
+All Computer Programming Activities Repository
 
-Computes the minimum grade for the final exam
-
-Project - 15%
-Long Exam - 20%
-Midterm Exam - 25%
-Final Exam - 40%
+All activities/projects are uploaded here in this repository.
+Feel free to look.
